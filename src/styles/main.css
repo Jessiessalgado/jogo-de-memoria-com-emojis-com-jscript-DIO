@@ -14,14 +14,13 @@ body {
     align-items: center;
     gap: 30px;
     background: linear-gradient(
-    325deg,
-    #03001e 0%
-    #7303c0 30%
-    #ec38bc 70%
-    #fdeff9 100%
-  );
-
-  padding: 40px 60px;
+        325deg,
+        #03001e 0%,
+        #7303c0 30%,
+        #ec38bc 70%,
+        #fdeff9 100%
+    );
+    padding: 40px 60px;
 }
 
 h2 {
