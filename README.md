@@ -29,10 +29,6 @@ Praticar habilidades em JavaScript, HTML e CSS criando um jogo de memória inter
 Abra o arquivo ``index.html`` em seu navegador para iniciar o jogo.
 
 
-## 🔗 Ligações
-Acesse o jogo online (se você tiver hospedado)
-Portfólio do autor
-
 ## 📂 Estrutura do Projeto
 
 ```plaintext
